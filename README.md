@@ -43,7 +43,7 @@ The core insight of our work is that many complex components in traditional LLM 
 ### Installation
 
 ```bash
-git clone https://github.com/mcptest-user/ipsum-lorem-all-you-need.git
+git clone https://github.com/MrZhang1996/ipsum-lorem-all-you-need.git
 cd ipsum-lorem-all-you-need
 pip install -r requirements.txt
 ```
@@ -70,11 +70,11 @@ python src/training/compare.py --baseline bert-base --our-model ipsum-lorem
 ## Citation
 
 ```bibtex
-@inproceedings{smith2025ipsum,
+@inproceedings{smith2026ipsum,
   title={Ipsum Lorem is All You Need},
   author={Smith, John and others},
-  booktitle={Under review at COML 2025 - Conference on Machine Learning},
-  year={2025}
+  booktitle={Proceedings of the Conference on Machine Learning (COML 2026)},
+  year={2026}
 }
 ```
 
